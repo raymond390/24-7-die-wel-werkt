@@ -24,5 +24,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raymond390/24-7-die-wel-werkt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raymond390/24-7-die-wel-werkt/issues"
+  },
+  "homepage": "https://github.com/raymond390/24-7-die-wel-werkt#readme"
 }
